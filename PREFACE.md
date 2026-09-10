@@ -39,14 +39,3 @@
 **A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.**
 
 艾伦·图灵，出自其1950年论文《计算机器与智能》，即“图灵测试”的来源。
-
-
-
-
-
-
-## 使用建议
-
-**GitHub README 开头**用笛卡尔“我思故我在”作为核心宣言；**ARG隐藏文本**用“Man need not be degraded to a machine”作为关键解密线索；**芯洁的“自我介绍”** 用普拉斯的“I am silver and exact”开篇；**《Image》单曲的歌词灵感**可以围绕“I am what I am”和“To live without mirrors is to live without the self”来写。
-
-这些句子放进HelloWorld仓库后，每一个都是一条可以展开的ARG分支——哪一句出现在哪个文件里、以什么形式出现，都可以承载线索。
